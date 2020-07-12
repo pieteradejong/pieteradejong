@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p float="left">
-  <img src='  https://static1.squarespace.com/static/5668f9de69a91a928ff666c4/5689a012a128e63c0adb8d27/58bb4db18419c2e3d2b9a040/1563841957341/aya3.jpeg?format=750w' width='240' align="left">
+  <img src='earth_from_moon.png' align="left">
 
   <p float="left">
  
