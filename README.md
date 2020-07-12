@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <p float="left">
  
   Job: Software<br>
-  Blog: [pieteronline](https://www.pieteronline.com/blog)<br>
+  <a href="https://www.pieteronline.com/blog" target="_blank">Pieter Online Blog</a>
   
 Description.  
   </p>
