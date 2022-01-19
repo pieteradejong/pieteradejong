@@ -1,4 +1,6 @@
-# Welcome. I'm Pieter and I'm a Software Engineer (generalist) with a specialty in Analytics/Quantitative.
+# Welcome. 
+
+I'm Pieter and I'm a Software Engineer (generalist) with a specialty in Analytics/Quantitative.
 
 Languages: Python, Javascript (ES6), some Scala.
 
