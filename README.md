@@ -10,8 +10,8 @@ Last updated March 2023, I'll probably keep updating this as I'll be publishing 
 
 * Here on GitHub
 * Email: `pieter` `dot` `a` `dot` `dejong` `gmail` `dot` `com`
-* Twitter at @pieteradejong
-* Work in progress: pieter.am
+* Twitter at (@pieteradejong)[https://twitter.com/pieteradejong]
+* Work in progress: (pieter.am)[https://pieter.am/]
 
 **Interests**
 
@@ -20,6 +20,3 @@ Last updated March 2023, I'll probably keep updating this as I'll be publishing 
 
 I'm always interested in meeting new people. Especially if we share specific common interests or you have ideas for collaboration, whether writing/creative, open-source, or commercial.
 
-Email: pieter.a.dejong@gmail.com
-
-Twitter: https://twitter.com/pieteradejong
