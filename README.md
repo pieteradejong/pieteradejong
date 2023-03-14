@@ -12,6 +12,7 @@ Last updated March 2023, I'll probably keep updating this as I'll be publishing 
 * Email: `pieter` `dot` `a` `dot` `dejong` `gmail` `dot` `com`
 * Twitter at (@pieteradejong)[https://twitter.com/pieteradejong]
 * Work in progress: (pieter.am)[https://pieter.am/]
+* My GitHub page: (GitHub io)[https://pieteradejong.github.io/]
 
 **Interests**
 
