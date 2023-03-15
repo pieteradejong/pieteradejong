@@ -1,8 +1,6 @@
 # Welcome. 
 
-Hey, I'm Pieter and I'm a Software Engineer with a quantitative bent.
-
-Half :netherlands: , half :us:  :)
+Hey, I'm Pieter (:netherlands: + :us:) and I'm a Software Engineer with a quantitative/math bent.
 
 Born + raised in :netherlands:, 
 then :arrow_right: Baltimore 
@@ -10,9 +8,6 @@ then :arrow_right: Baltimore
 :arrow_right:  :derelict_house: 	San Francisco 
 :arrow_right:  :statue_of_liberty: 	NYC 
 :arrow_right:  :palm_tree: 			Miami.
-
-
-
 
 Currently based in Miami, previously NYC, San Francisco, Palo Alto, Amsterdam.
 
