@@ -1,15 +1,20 @@
 # Welcome. 
 
-Hey, I'm Pieter (:netherlands: + :us:) and I'm a Software Engineer with a quantitative/math bent.
+Hey, I'm Pieter (:us: + :netherlands:) and I'm a Software Engineer with a quantitative/math bent.
 
 Born + raised in :netherlands:, 
 then :arrow_right: Baltimore 
 :arrow_right:  :evergreen_tree: 	Palo Alto 
 :arrow_right:  :derelict_house: 	San Francisco 
 :arrow_right:  :statue_of_liberty: 	NYC 
-:arrow_right:  :palm_tree: 			Miami.
+and currently  :round_pushpin: :palm_tree: 			Miami.
 
-Currently based in Miami, previously NYC, San Francisco, Palo Alto, Amsterdam.
+
+## Education
+
+:mortar_board: Applied Mathematics
+
+## Updates / News
 
 Last updated March 2023, I'll probably keep updating this as I'll be publishing all my creative output on GitHub.
 
