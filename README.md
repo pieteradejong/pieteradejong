@@ -2,6 +2,13 @@
 
 Hey, I'm Pieter and I'm a Software Engineer with a quantitative bent.
 
+Half :netherlands: , half :us:  :)
+
+Born + raised in :netherlands: , then :arrow_right: Baltimore :arrow_right: Palo :evergreen_tree: Alto :arrow_right: San Francisco :arrow_right: :statue_of_liberty: NYC :arrow_right:  :palm_tree: Miami.
+
+
+
+
 Currently based in Miami, previously NYC, San Francisco, Palo Alto, Amsterdam.
 
 Last updated March 2023, I'll probably keep updating this as I'll be publishing all my creative output on GitHub.
@@ -21,8 +28,3 @@ Last updated March 2023, I'll probably keep updating this as I'll be publishing 
 
 I'm always interested in meeting new people. Especially if we share specific common interests or you have ideas for collaboration, whether writing/creative, open-source, or commercial.
 
-:netherlands: :us: 
-
-Born+raised in :netherlands: , then :airplane: Baltimore, Palo :evergreen_tree: Alto , San Francisco, :statue_of_liberty: NYC, :palm_tree: Miami.
-
-:arrow_right:
