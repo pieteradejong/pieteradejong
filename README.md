@@ -11,7 +11,7 @@ then :arrow_right: Baltimore
 and currently  :round_pushpin: :palm_tree: 			Miami.
 
 
-**What I'm into**
+:cowboy_hat_face: **What I'm into**
 * :weight_lifting: + :running: Exercise: weights + running
 
 :closed_book: **Writing and Reading**
@@ -19,6 +19,12 @@ and currently  :round_pushpin: :palm_tree: 			Miami.
 * Blog example 2
 * Blog example 3
 
+:link: **Connect with me**
+* Here on GitHub
+* Email: `pieter` `dot` `a` `dot` `dejong` `gmail` `dot` `com`
+* Twitter at [@pieteradejong](https://twitter.com/pieteradejong)
+* Work in progress: [pieter.am](https://pieter.am/)
+* My GitHub page: [GitHub io](https://pieteradejong.github.io/)
 
 
 ## Education
@@ -29,13 +35,8 @@ and currently  :round_pushpin: :palm_tree: 			Miami.
 
 Last updated March 2023, I'll probably keep updating this as I'll be publishing all my creative output on GitHub.
 
-**Find me online**
 
-* Here on GitHub
-* Email: `pieter` `dot` `a` `dot` `dejong` `gmail` `dot` `com`
-* Twitter at [@pieteradejong](https://twitter.com/pieteradejong)
-* Work in progress: [pieter.am](https://pieter.am/)
-* My GitHub page: [GitHub io](https://pieteradejong.github.io/)
+
 
 **Interests**
 
