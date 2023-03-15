@@ -4,7 +4,12 @@ Hey, I'm Pieter and I'm a Software Engineer with a quantitative bent.
 
 Half :netherlands: , half :us:  :)
 
-Born + raised in :netherlands: , then :arrow_right: Baltimore :arrow_right: Palo :evergreen_tree: Alto :arrow_right: San Francisco :arrow_right: :statue_of_liberty: NYC :arrow_right:  :palm_tree: Miami.
+Born + raised in :netherlands:, 
+then :arrow_right: Baltimore 
+:arrow_right:  :evergreen_tree: Palo Alto 
+:arrow_right: San Francisco 
+:arrow_right: :statue_of_liberty: NYC 
+:arrow_right:  :palm_tree: Miami.
 
 
 
