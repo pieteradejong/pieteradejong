@@ -6,16 +6,19 @@ Born + raised in :netherlands:,
 then :arrow_right: Baltimore 
 :arrow_right:  :evergreen_tree: 	Palo Alto 
 :arrow_right:  :derelict_house: 	San Francisco 
-:arrow_right:  :statue_of_liberty: 	NYC 
+:arrow_right:  :statue_of_liberty::cityscape: 	NYC 
 and currently  :round_pushpin: :palm_tree: Miami.
 
 
 :cowboy_hat_face: **What I'm into**
-* :weight_lifting: + :running: Exercise: weights + running
+* :weight_lifting: + :running: Exercise: weights + running , :skier:, :snowboarder:
 * :mortar_board: Applied Mathematics
-* Obsessed with the future
-* Linguistics, Classic Greek and Classic Latin
-* Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures
+* :infinity: Obsessed with the future
+* :symbols: Linguistics, Classic Greek and Classic Latin
+* :brain: Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures
+
+
+I believe than :human: + :robot: are stronger together.
 
 :closed_book: **Writing and Reading**
 * Blog example 1
