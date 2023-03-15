@@ -3,10 +3,10 @@
 Hey, I'm Pieter (:us: + :netherlands:) and I'm a Software Engineer with a strong quantitative/math interest.
 
 Born + raised in :netherlands:, 
-then :flight_departure:    Baltimore, MD 
-   :arrow_right:  :evergreen_tree: 	Palo Alto, Silicon Valley
-   :arrow_right:  :derelict_house: 	San Francisco, Bay Area 
-   :arrow_right:  :statue_of_liberty::cityscape: 	NYC
+then :flight_departure: Baltimore, MD 
+:arrow_right:  :evergreen_tree: 	Palo Alto, Silicon Valley
+:arrow_right:  :derelict_house: 	San Francisco, Bay Area 
+:arrow_right:  :statue_of_liberty::cityscape: 	NYC
 and currently  :round_pushpin: :palm_tree: Miami.
 
 
