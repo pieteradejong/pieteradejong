@@ -10,7 +10,7 @@ then :arrow_right: Baltimore
 and currently  :round_pushpin: :palm_tree: Miami.
 
 
-:cowboy_hat_face: ## **What I'm into**
+## :cowboy_hat_face: **What I'm into**
 * :weight_lifting: + :running: Exercise: weights + running, :skier: + :snowboarder: skiing and snowboarding
 * :mortar_board: Applied Mathematics
 * :star: Obsessed with the future
