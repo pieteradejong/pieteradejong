@@ -6,10 +6,10 @@ Half :netherlands: , half :us:  :)
 
 Born + raised in :netherlands:, 
 then :arrow_right: Baltimore 
-:arrow_right:  :evergreen_tree: Palo Alto 
-:arrow_right: San Francisco 
-:arrow_right: :statue_of_liberty: NYC 
-:arrow_right:  :palm_tree: Miami.
+:arrow_right:  :evergreen_tree: 	Palo Alto 
+:arrow_right:  :derelict_house: 	San Francisco 
+:arrow_right:  :statue_of_liberty: 	NYC 
+:arrow_right:  :palm_tree: 			Miami.
 
 
 
