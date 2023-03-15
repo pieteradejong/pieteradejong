@@ -11,7 +11,15 @@ then :arrow_right: Baltimore
 and currently  :round_pushpin: :palm_tree: 			Miami.
 
 
-:weight_lifting: + :running: Weights + running.
+*What I'm into*
+* :weight_lifting: + :running: Exercise: weights + running
+
+:closed_book: *Latest Blog Posts*
+* Blog example 1
+* Blog example 2
+* Blog example 3
+
+
 
 ## Education
 
