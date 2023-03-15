@@ -10,10 +10,10 @@ then :arrow_right: Baltimore
 and currently  :round_pushpin: :palm_tree: Miami.
 
 
-:cowboy_hat_face: **What I'm into**
-* :weight_lifting: + :running: Exercise: weights + running , :skier:, :snowboarder:
+:cowboy_hat_face: __**What I'm into**__
+* :weight_lifting: + :running: Exercise: weights + running, :skier: + :snowboarder: skiing and snowboarding
 * :mortar_board: Applied Mathematics
-* :infinity: Obsessed with the future
+* :star: Obsessed with the future
 * :symbols: Linguistics, Classic Greek and Classic Latin
 * :brain: Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures
 
