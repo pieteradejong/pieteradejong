@@ -21,3 +21,8 @@ Last updated March 2023, I'll probably keep updating this as I'll be publishing 
 
 I'm always interested in meeting new people. Especially if we share specific common interests or you have ideas for collaboration, whether writing/creative, open-source, or commercial.
 
+:netherlands: :us: 
+
+Born+raised in :netherlands: , then :airplane: Baltimore, Palo :evergreen_tree: Alto , San Francisco, :statue_of_liberty: NYC, :palm_tree: Miami.
+
+:arrow_right:
