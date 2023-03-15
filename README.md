@@ -18,7 +18,7 @@ and currently  :round_pushpin: :palm_tree: Miami.
 * :brain: Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures
 
 
-I believe than :human: + :robot: are stronger together.
+I believe that (:adult: + :robot:) >>> (:adult:, :robot:) - we are stronger together.
 
 :closed_book: **Writing and Reading**
 * Blog example 1
