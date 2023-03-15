@@ -7,8 +7,7 @@ then :arrow_right: Baltimore
 :arrow_right:  :evergreen_tree: 	Palo Alto 
 :arrow_right:  :derelict_house: 	San Francisco 
 :arrow_right:  :statue_of_liberty: 	NYC 
-
-and currently  :round_pushpin: :palm_tree: 			Miami.
+and currently  :round_pushpin: :palm_tree: Miami.
 
 
 :cowboy_hat_face: **What I'm into**
