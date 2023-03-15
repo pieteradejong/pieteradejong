@@ -21,10 +21,10 @@ and currently  :round_pushpin: :palm_tree: 			Miami.
 
 :link: **Connect with me**
 * Here on GitHub
-* Email: `pieter` `dot` `a` `dot` `dejong` `gmail` `dot` `com`
+* Email: `pieter` `dot` `a` `dot` `dejong` `at` `gmail` `dot` `com`
 * Twitter at [@pieteradejong](https://twitter.com/pieteradejong)
-* Work in progress: [pieter.am](https://pieter.am/)
-* My GitHub page: [GitHub io](https://pieteradejong.github.io/)
+* (Planned) Personal website [pieter.am](https://pieter.am/)
+* (Planned) Personal GitHub.io page [GitHub io](https://pieteradejong.github.io/)
 
 
 ## Education
