@@ -1,6 +1,6 @@
 # Welcome. 
 
-Hey, I'm Pieter (:us: + :netherlands:) and I'm a Software Engineer with a quantitative/math bent.
+Hey, I'm Pieter (:us: + :netherlands:) and I'm a Software Engineer with a strong quantitative/math interest.
 
 Born + raised in :netherlands:, 
 then :arrow_right: Baltimore 
@@ -14,7 +14,8 @@ and currently  :round_pushpin: :palm_tree: Miami.
 * :weight_lifting: + :running: Exercise: weights + running
 * :mortar_board: Applied Mathematics
 * Obsessed with the future
-* Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures.
+* Linguistics, Classic Greek and Classic Latin
+* Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures
 
 :closed_book: **Writing and Reading**
 * Blog example 1
