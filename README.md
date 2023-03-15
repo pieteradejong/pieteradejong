@@ -12,6 +12,9 @@ and currently  :round_pushpin: :palm_tree: Miami.
 
 :cowboy_hat_face: **What I'm into**
 * :weight_lifting: + :running: Exercise: weights + running
+* :mortar_board: Applied Mathematics
+* Obsessed with the future
+* Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures.
 
 :closed_book: **Writing and Reading**
 * Blog example 1
@@ -26,21 +29,8 @@ and currently  :round_pushpin: :palm_tree: Miami.
 * (Planned) Personal GitHub.io page [GitHub io](https://pieteradejong.github.io/)
 
 
-## Education
 
-:mortar_board: Applied Mathematics
 
 ## Updates / News
 
 Last updated March 2023, I'll probably keep updating this as I'll be publishing all my creative output on GitHub.
-
-
-
-
-**Interests**
-
-* Obsessed with the future
-
-
-I'm always interested in meeting new people. Especially if we share specific common interests or you have ideas for collaboration, whether writing/creative, open-source, or commercial.
-
