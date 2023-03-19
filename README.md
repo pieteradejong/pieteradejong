@@ -15,17 +15,17 @@ and currently  :round_pushpin: :palm_tree: Miami.
 * :mortar_board: Applied Mathematics
 * :star: Obsessed with the future
 * :symbols: Linguistics, Classic Greek and Classic Latin
-* :brain: Connecting with people to share ideas, for collaboration, writing/creative, open-source software, or commercial ventures
+* :brain: Connecting with people to share ideas, collaborate, write, do open-source software, or commercial ventures
 
 
-I believe that (:adult: + :robot:) >>> (:adult:, :robot:) - we are stronger together.
+I believe that (:brain: + :robot:) >>> (:brain:, :robot:) - we are stronger together.
 
-### :closed_book: **Writing and Reading**
-* Blog example 1
-* Blog example 2
-* Blog example 3
+### :closed_book: :pen: **Writing (work in progress)**
+* [Clay Shirky's Cognitive Surplus](https://github.com/pieteradejong/blog/blob/main/cognitive_surplus.md)
+* (LaTeX mathematical notation test)(https://github.com/pieteradejong/blog/blob/main/lateX_test.md)
+* [Future Thinking] (https://github.com/pieteradejong/blog/blob/main/future_thinking.md)
 
-### :link: **Connect with me**
+### :link: **Connect**
 * Here on GitHub
 * Email: `pieter` `dot` `a` `dot` `dejong` `at` `gmail` `dot` `com`
 * Twitter at [@pieteradejong](https://twitter.com/pieteradejong)
