@@ -23,7 +23,7 @@ I believe that (:brain: + :robot:) >>> (:brain:, :robot:) - we are stronger toge
 ### :closed_book: :pen: **Writing (work in progress)**
 * [Clay Shirky's Cognitive Surplus](https://github.com/pieteradejong/blog/blob/main/cognitive_surplus.md)
 * [LaTeX mathematical notation test](https://github.com/pieteradejong/blog/blob/main/lateX_test.md)
-* [Future Thinking] (https://github.com/pieteradejong/blog/blob/main/future_thinking.md)
+* [Future Thinking](https://github.com/pieteradejong/blog/blob/main/future_thinking.md)
 
 ### :link: **Connect**
 * Here on GitHub
