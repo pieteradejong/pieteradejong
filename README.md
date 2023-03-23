@@ -12,7 +12,7 @@ and currently  :round_pushpin: :palm_tree: Miami.
 
 ### :cowboy_hat_face: **What I'm into**
 * :muscle: Exercise: :weight_lifting: + :running: weights + running, :skier: + :snowboarder: skiing and snowboarding
-* :mortar_board: Applied Mathematics
+* :mortar_board: Applied Mathematics + Business Studies
 * :star: Obsessed with the future
 * :symbols: Linguistics, Classic Greek and Classic Latin
 * :brain: Connecting with people to share ideas, collaborate, write, do open-source software, or commercial ventures
