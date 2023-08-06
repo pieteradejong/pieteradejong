@@ -28,7 +28,6 @@ I believe that (:brain: + :robot:) >>> (:brain:, :robot:) - we are stronger toge
 ### :link: **Connect**
 * Here on GitHub
 * Email: `pieter` `dot` `a` `dot` `dejong` `at` `gmail` `dot` `com`
-* Twitter at [@pieteradejong](https://twitter.com/pieteradejong)
 * (Planned) Personal website [pieter.am](https://pieter.am/)
 * (Planned) Personal GitHub.io page [GitHub io](https://pieteradejong.github.io/)
 
