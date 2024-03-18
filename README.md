@@ -1,6 +1,8 @@
 # Welcome. 
 
-Hey, I'm Pieter ( :us: + :netherlands: ) and I'm a Software Engineer with a strong quantitative/math interest.
+Hello. I'm Pieter ( :us: + :netherlands: ) and I'm a Software Engineer with a strong quantitative/math interest.
+
+As a SWE, I believe in bringing together :brain:'s and :robot:'s to accomplish things that either separate could not.
 
 Born + raised in :netherlands:, 
 then :flight_departure: Baltimore, MD 
@@ -12,13 +14,13 @@ and currently  :round_pushpin: :palm_tree: Miami.
 
 ### :cowboy_hat_face: **What I'm into**
 * :muscle: Exercise: :weight_lifting: + :running: weights + running, :skier: + :snowboarder: skiing and snowboarding
-* :mortar_board: Applied Mathematics + Business Studies
+* :mortar_board: BSc. Applied Mathematics + Business Studies + OMCS Comp. Sci.
 * :star: Obsessed with the future
 * :symbols: Linguistics, Classic Greek and Classic Latin
 * :brain: Connecting with people to share ideas, collaborate, write, do open-source software, or commercial ventures
 
 
-I believe that (:brain: + :robot:) >>> (:brain:, :robot:) - we are stronger together.
+
 
 ### :closed_book: :pen: **Writing (work in progress)**
 * [Clay Shirky's Cognitive Surplus](https://github.com/pieteradejong/blog/blob/main/cognitive_surplus.md)
