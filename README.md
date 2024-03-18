@@ -4,6 +4,8 @@ Hello. I'm Pieter ( :us: + :netherlands: ) and I'm a Software Engineer with a st
 
 As a SWE, I believe in bringing together :brain:'s and :robot:'s to accomplish things that either separate could not.
 
+I'm currently developing in Python, Golang, and actively experimenting with Kafka, Redis, vector search and probabilistic programming.
+
 Born + raised in :netherlands:, 
 then :flight_departure: Baltimore, MD 
 :arrow_right:  :evergreen_tree: 	Palo Alto, Silicon Valley
@@ -20,19 +22,13 @@ and currently  :round_pushpin: :palm_tree: Miami.
 * :brain: Connecting with people to share ideas, collaborate, write, do open-source software, or commercial ventures
 
 
-
-
 ### :closed_book: :pen: **Writing (work in progress)**
 * [Clay Shirky's Cognitive Surplus](https://github.com/pieteradejong/blog/blob/main/cognitive_surplus.md)
 * [LaTeX mathematical notation test](https://github.com/pieteradejong/blog/blob/main/lateX_test.md)
 * [Future Thinking](https://github.com/pieteradejong/blog/blob/main/future_thinking.md)
 
 ### :link: **Connect**
-* Here on GitHub
+* This GitHub
 * Email: `pieter` `dot` `a` `dot` `dejong` `at` `gmail` `dot` `com`
-* (Planned) Personal website [pieter.am](https://pieter.am/)
-* (Planned) Personal GitHub.io page [GitHub io](https://pieteradejong.github.io/)
-
-### Updates / News
-
-Last updated March 2023, I'll probably keep updating this as I'll be publishing all my creative output on GitHub.
+* (MVP available) Personal website [pieter.am](https://pieter.am/)
+* (Not under development) Personal GitHub.io page [GitHub io](https://pieteradejong.github.io/)
