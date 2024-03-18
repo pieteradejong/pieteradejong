@@ -1,6 +1,6 @@
 # Welcome. 
 
-Hey, I'm Pieter (:us: + :netherlands:) and I'm a Software Engineer with a strong quantitative/math interest.
+Hey, I'm Pieter ( :us: + :netherlands: ) and I'm a Software Engineer with a strong quantitative/math interest.
 
 Born + raised in :netherlands:, 
 then :flight_departure: Baltimore, MD 
