@@ -4,7 +4,7 @@ Hello. I'm Pieter ( :us: + :netherlands: ) and I'm a Software Engineer with a st
 
 As a SWE, I believe in bringing together :brain:'s and :robot:'s to accomplish things that either separate could not.
 
-I'm currently developing in Python, Golang, and actively experimenting with Kafka, Redis, vector search and probabilistic programming.
+**I'm currently developing in Python, Golang, and actively experimenting with Kafka, Redis, vector search and probabilistic programming.**
 
 Born + raised in :netherlands:, 
 then :flight_departure: Baltimore, MD 
