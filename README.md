@@ -22,13 +22,11 @@ and currently  :round_pushpin: :palm_tree: Miami.
 * :brain: Connecting with people to share ideas, collaborate, write, do open-source software, or commercial ventures
 
 
-### :closed_book: :pen: **Writing (work in progress)**
-* [Clay Shirky's Cognitive Surplus](https://github.com/pieteradejong/blog/blob/main/cognitive_surplus.md)
-* [LaTeX mathematical notation test](https://github.com/pieteradejong/blog/blob/main/lateX_test.md)
-* [Future Thinking](https://github.com/pieteradejong/blog/blob/main/future_thinking.md)
+### :closed_book: :pen: **Writing**
+* [Blog](https://padj.vercel.app/blog/) on my website, with an [RSS feed](https://padj.vercel.app/rss.xml)
 
 ### :link: **Connect**
 * This GitHub
 * Email: `pieter` `dot` `a` `dot` `dejong` `at` `gmail` `dot` `com`
-* (MVP available) Personal website [pieter.am](https://pieter.am/)
-* (Not under development) Personal GitHub.io page [GitHub io](https://pieteradejong.github.io/)
+* Personal website: [padj.vercel.app](https://padj.vercel.app/)
+* [LinkedIn](https://www.linkedin.com/in/pieteradejong/)
